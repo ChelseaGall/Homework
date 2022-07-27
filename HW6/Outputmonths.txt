@@ -1,0 +1,5 @@
+run:
+Enter a month (1-12): 8
+Enter a year: 2000
+August 2000 has 31 days
+BUILD SUCCESSFUL (total time: 10 seconds)
