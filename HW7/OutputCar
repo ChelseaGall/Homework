@@ -1,0 +1,18 @@
+run:
+present speed 5
+present speed 10
+present speed 15
+present speed 20
+present speed 25
+Year model of the car 2003
+make of the carmaruti 
+Present speed of the car 25
+present speed 20
+present speed 15
+present speed 10
+present speed 5
+present speed 0
+Year model of the car 2003
+make of the carmaruti 
+Present speed of the car 0
+BUILD SUCCESSFUL (total time: 0 seconds)
