@@ -1,0 +1,26 @@
+run:
+Enter expressions such as  5 + 5  or  202 * 105
+using any of the operators +, -, *, /.
+To end, enter a 0.
+
+? 5 + 5
+Value is 10.0
+
+? 202 * 105
+Value is 21210.0
+
+? 202 / 105
+Value is 1.9238095238095239
+
+? 5 * 5
+Value is 25.0
+
+? 202 - 105
+Value is 97.0
+
+? 5 - 5 
+Value is 0.0
+
+? 0
+Good bye
+BUILD SUCCESSFUL (total time: 1 minute 48 seconds)
