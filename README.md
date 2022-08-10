@@ -10,3 +10,6 @@ For Homework 6, for the Month.java file, I used argument constructor to accept n
 
 # HW7
 For Homework 7, I created instances for each class and declared vaiables so that it can print the mileages of the car until the car runs out of fuel, which is why the current last speed is 0. I also ran a loop with increments of 5 for it to indrease and decrease to 0, for the odometer. I made the year of the model 2003, the make "carmaruti", and the current speed 0.
+
+# HW8 
+For Homework 8, for Program 1, I initialized counters and used delimeters to print a word count, and to show the number of sentences, characters, paragraphs, and whitespaces for the number of words each file contains. For Program 2 it evaluates simple expressions such as 5 + 5 and 202  * 105, consisting of a number, an operator, and another number.  The operators +,-, *, / are allowed. The program will read and evaluate expressions until the user inputs a line that starts with the number 0. In the output I calculated the expressions with the different opeartors and it prints the answer to each expression. 
